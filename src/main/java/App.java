@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from the Java App! green version");
+        System.out.println("Hello from the Java App! green version now");
     }
 }
